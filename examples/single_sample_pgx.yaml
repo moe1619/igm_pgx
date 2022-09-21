@@ -1,0 +1,4 @@
+single_sample:
+  sample_name: diagseq1670f599
+  gvcf_path: /nfs/projects/gatk-workflows/test/diagseq1670f599/diagseq1670f599.hard-filtered.gvcf.gz
+  cram_path: /nfs/projects/gatk-workflows/test/diagseq1670f599/diagseq1670f599.cram
